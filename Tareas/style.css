@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Open+Sans:ital,wght@0,300;1,400&family=Pixelify+Sans&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.rojo{
+    display: inline-block;
+    background-color: red;
+    width:1000px;
+    color: red;
+
+
+}
+.verde{
+    display: inline-block;
+    background-color: green;
+    width: 1000px;
+    color: green;
+
+}
+.amarillo{
+    display: inline-block;
+    background-color: yellow;
+    width: 1000px;
+    color: yellow;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 20px;
+}
+ul{
+    margin-left: 10px;
+    margin-bottom: 30px;
+} 
+li{
+    margin-top: 10px;
+}
+section{
+    margin-top: 10px;
+
+}
+section{
+font-size: 15px;
+margin-bottom: 5px;
+color: black;
+
+}
+span{
+    font-size: 15px;
+    color:black;
+    background-color: #757171;
+}
+.aqua{
+    background-color: antiquewhite;}
+.marina{
+    background-color: blanchedalmond;
+}

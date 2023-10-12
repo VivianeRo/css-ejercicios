@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Montserrat:ital,wght@0,400;0,800;1,200&family=Pixelify+Sans&family=Raleway:ital,wght@1,200;1,300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+}
+.rojo{
+    background-color: #ff0000;
+    color: #000000;
+    font-family: 'Pixelify Sans', sans-serif;
+    width: auto;
+    height: 200px;
+}
+.verde{
+    font-family: 'Pixelify Sans', sans-serif;
+    background-color: green;
+    color: black;
+
+    width: auto;
+    height: 200px;
+
+}
+
+
+.amarillo{ 
+    font-family: 'Pixelify Sans', sans-serif;
+    background-color: hsl(60, 100%, 50%);
+    color: hsl(0, 0%, 0%);
+    height: 200px;
+    width: auto;
+
+}

@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+ 
+h1{
+    text-align: center;
+    
+}
+.azul{
+    display: inline-block;
+    background-color: blue;
+    width: 500px;
+    color: blue;
+    
+}
+.pa{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+p{
+    margin-left:300px ;
+
+}
+.celeste{
+    display: inline-block;
+    background-color: rgb(21, 104, 172);
+    width: 500px;
+    color:  rgb(21, 104, 172);
+}
+.blue{
+    display: inline-block;
+    background-color: rgb(19, 19, 235);
+    width: 500px;
+    color: rgb(19, 19, 235);
+}
+.aguamarina{
+    display: inline-block;
+    background-color: aqua;
+    width:500px ;
+    color: aqua;
+}
+.aqua{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 500px;
+    color: aquamarine;
+}
+.blanco{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 500px;
+    color: aliceblue;
+}
+.patito{
+    display: inline-block;
+    background-color: rgb(247, 243, 7);
+    width: 500px;
+    color: rgb(247, 243, 7);
+}
+.amarillo{
+    display: inline-block;
+    background-color: rgb(255, 174, 0);
+    width: 500px;
+    color: rgb(255, 174, 0) ;
+}
+.naranja{
+    display: inline-block;
+    background-color: rgb(235, 146, 13);
+    width: 500px;
+    color: rgb(235, 146, 13);
+}
+.anaranjado{
+    display: inline-block;
+    background-color: rgb(255, 17, 0);
+    width: 500px;
+    color:rgb(255, 17, 0) ;
+}
+.roja{
+    display: inline-block;
+    background-color: red;
+    width: 500px;
+    color: red;
+
+}
+    

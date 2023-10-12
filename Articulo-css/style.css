@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,800;1,200&family=Raleway:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+.italita{
+    font-family: 'Montserrat', sans-serif;
+}
+.celeste{
+    color:#0baed6 ;
+}
+.none{
+    text-decoration: none;
+}
+.gris{
+    color: #712828;
+}
+.oracion{
+    font-style: italic;
+}
+.negrita{
+    font-weight: 900px;
+}
+.italica{
+    font-style: italic;
+    font-family: cursive;
+}
+.dos{
+    font-weight: 700px;
+}
+.uno{
+    font-style: italic;
+}
